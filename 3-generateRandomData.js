@@ -60,6 +60,6 @@ db.system.js.save({
     }
 })
 db.databaseVersioning.insertOne({
-	_id: NumberInt(2), 
+	_id: NumberInt(3), 
 	notes: 'generateRandomData function'
 })
