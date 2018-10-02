@@ -1,7 +1,7 @@
 db.system.js.save({
     _id: "convertDateToString",
 	value: function (day) {
-        return day.getFullYear() + "=" + ("0" + (day.getMonth() + 1)).slice(-2) + "-" + ("0" + day.getDate()).slice(-2);
+        return day.getFullYear() + "-" + ("0" + (day.getMonth() + 1)).slice(-2) + "-" + ("0" + day.getDate()).slice(-2);
     }
 })
 
