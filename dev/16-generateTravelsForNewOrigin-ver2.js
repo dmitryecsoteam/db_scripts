@@ -10,5 +10,5 @@ db.system.js.save({
 
 db.databaseVersioning.insertOne({
     _id: NumberInt(16),
-    notes: ''
+    notes: 'Function generateTravelsForNewOrigin will not create Travels for origin = destination'
 })
