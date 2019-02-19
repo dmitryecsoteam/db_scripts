@@ -5,6 +5,8 @@ db.getCollection('origins').insertMany([
         name_en: "Tokyo",
         country_en: "Japan",
         iata: "TYO",
-        priceAirplaneService: "aviasales"
+        priceAirplaneService: "skyscanner",
+        latitude: "35.652832",
+        longitude: "139.839478"
     }
 ])
