@@ -69,7 +69,7 @@ db.getCollection('destinations').insertMany([
     "latitude": "34.68505",
     "longitude": "135.80485",
     "countryEn": "Japan",
-    "weatherSparkId": ""143401""
+    "weatherSparkId": "143401"
   },
   {
     "_id": NumberInt(4),
@@ -93,7 +93,7 @@ db.getCollection('destinations').insertMany([
     "latitude": "43.061104",
     "longitude": "141.356430",
     "countryEn": "Japan",
-    "weatherSparkId": ""144135""
+    "weatherSparkId": "144135"
   },
   {
     "_id": NumberInt(5),
@@ -117,7 +117,7 @@ db.getCollection('destinations').insertMany([
     "latitude": "36.65139",
     "longitude": "138.18111",
     "countryEn": "Japan",
-    "weatherSparkId": ""143754""
+    "weatherSparkId": "143754"
   },
   {
     "_id": NumberInt(6),
