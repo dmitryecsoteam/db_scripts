@@ -42,8 +42,8 @@ db.getCollection('destinations').insertMany([
     "name": ["Osaka", "Осака", "大阪市", "KIX", "OSA", "ITM"],
     "nameEn": "Osaka",
     "iata": "OSA",
-    "latitude": "34.652500",
-    "longitude": "139.839478",
+    "latitude": "34.69373",
+    "longitude": "135.50216",
     "countryEn": "Japan",
     "weatherSparkId": "143399"
   },
