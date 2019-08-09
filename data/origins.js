@@ -16,7 +16,7 @@ db.getCollection('origins').insertMany([
         countryEn: "Japan",
         iata: "OSA",
         priceAirplaneService: "skyscanner",
-        latitude: "34.652500",
-        longitude: "139.839478"
+        latitude: "34.69373",
+        longitude: "135.50216"
     }
 ])
