@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ECSO-DB.travels"},{"v":2,"key":{"date":1.0,"destination":1.0,"oringin":1.0},"name":"origin_dest_data","ns":"ECSO-DB.travels"}],"uuid":"3d68bc1f3cb742478d6e74bfb6e09232"}
