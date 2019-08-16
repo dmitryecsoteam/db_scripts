@@ -718,7 +718,7 @@ db.getCollection('destinations').insertMany([
     "shoppingRating": NumberInt(1),
     "shoppingDescription": "Not a good place for shopping",
     "name": ["Ise", "Исе", "伊勢市"],
-    "nameEn": "Ise ",
+    "nameEn": "Ise",
     "iata": "NGO",
     "latitude": "34.495380",
     "longitude": "136.706146",

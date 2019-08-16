@@ -4,3 +4,7 @@ db.users.createIndex({
 }, {
     name: "email_index"
 });
+db.databaseVersioning.insertOne({
+	_id: NumberInt(2),
+	notes: 'Create users collection'
+});
